@@ -705,6 +705,7 @@
 		DarkMotoHelmet_Grey,	*,		80,		22
 		DarkMotoHelmet_Black,	*,		85,		23
 		DarkMotoHelmet_Green,	*,		90,		25
+		DarkMotoHelmet_YellowScarred,	*,		900,		-1
 		TankerHelmet,			*,		100,	25
 		GreatHelm,				*,		120,	30
 		ZSh3PilotHelmet,		*,		130,	35
